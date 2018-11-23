@@ -24,7 +24,7 @@ after: if (block_count[2] & block_count[0])
 As in my code, the value range of block_count is between 0 and 5, so it’s impossible to have 7(111 in binary) but only 5(101 in binary). 
 Therefore, use "and" to compare the [0] and [2] position of block_count can achieve the same idea as comparing ==5.
 
-
+<br>
 
 1. Description.pdf: description of the requirement of the adaptive threshold engine
 2. explanation.pdf: explanation of the code and also some personal reviews
