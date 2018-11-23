@@ -26,8 +26,6 @@ Therefore, use "and" to compare the [0] and [2] position of block_count can achi
 
 <br>
 <br>
-<br>
-<br>
 
 1. Description.pdf: description of the requirement of the adaptive threshold engine
 2. explanation.pdf: explanation of the code and also some personal reviews
